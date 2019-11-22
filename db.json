@@ -1,0 +1,31 @@
+{
+    "progress": [{
+        "road": "80.0%",
+        "rightofway": "14.6%",
+        "overall": "91.2%",
+        "nextMilestone": "Start pub involve",
+        "percentComplete": "82.4%",
+        "estTracts": 11,
+        "actualTracts": 42    
+    }],
+    "importantDates": [{
+        "surveyBeginSched": "6/11/2012",
+        "surveyBeginActual": "8/30/2012",
+        "surveyCompleteSched": "2/12/2013",
+        "surveyCompleteActual": "4/25/2013",
+        "existRWPlansSched": "2/27/2013",
+        "existRWPlansActual": "4/25/2013",
+        "existRWCompSched": "8/22/2013",
+        "existRWCompActual": "10/7/2013",
+        "fieldCkSched": "12/5/2014",
+        "fieldCkActual": "12/16/2014",
+        "offPlansRoWSched": "8/15/2019",
+        "offPlansRoWActual": "3/26/2015",
+        "appraisalBeginSched": "10/31/2019",
+        "appraisalBeginActual": "8/10/2015",
+        "propClearedSched": "11/19/2020",
+        "propClearedActual": null,
+        "lettingDateSched": "8/14/2017",
+        "lettingDateActual": null
+    }]
+}
